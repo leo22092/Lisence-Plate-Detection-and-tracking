@@ -1,0 +1,1 @@
+this requirements.txt contains working easyocr 

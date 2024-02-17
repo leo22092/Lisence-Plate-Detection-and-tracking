@@ -1,0 +1,206 @@
+[2023-08-21 08:48:38,530] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:38,625] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:38,667] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:38,709] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:38,756] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:38,801] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:38,846] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:38,890] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:38,931] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:38,972] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:39,015] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:39,058] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:39,098] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:39,138] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:39,179] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:39,221] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:39,265] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:39,309] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:39,350] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:39,401] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:39,522] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:39,571] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:39,642] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:39,687] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:39,699] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:39,739] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:40,059] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:40,059] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:40,103] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:40,215] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:40,215] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:40,260] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:40,286] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:40,286] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:40,327] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:40,363] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:40,363] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:40,402] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:40,438] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:40,438] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:40,480] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:40,530] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:40,530] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:40,573] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:40,606] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:40,606] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:40,606] 58 root - INFO - Lisence plate complies format
+[2023-08-21 08:48:40,649] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:40,673] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:40,673] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:40,717] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:40,741] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:40,741] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:40,783] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:40,807] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:40,808] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:40,851] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:40,882] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:40,882] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:40,925] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:40,950] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:40,951] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:40,994] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:41,059] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:41,059] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:41,102] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:41,127] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:41,127] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:41,127] 58 root - INFO - Lisence plate complies format
+[2023-08-21 08:48:41,171] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:41,200] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:41,200] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:41,200] 58 root - INFO - Lisence plate complies format
+[2023-08-21 08:48:41,247] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:41,275] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:41,276] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:41,276] 58 root - INFO - Lisence plate complies format
+[2023-08-21 08:48:41,318] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:41,345] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:41,345] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:41,345] 58 root - INFO - Lisence plate complies format
+[2023-08-21 08:48:41,389] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:41,422] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:41,422] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:41,466] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:41,557] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:41,557] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:41,557] 58 root - INFO - Lisence plate complies format
+[2023-08-21 08:48:41,602] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:41,631] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:41,631] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:41,631] 58 root - INFO - Lisence plate complies format
+[2023-08-21 08:48:41,676] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:41,706] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:41,706] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:41,755] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:41,788] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:41,788] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:41,834] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:41,861] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:41,861] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:41,906] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:41,936] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:41,937] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:41,985] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:42,028] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:42,028] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:42,076] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:42,102] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:42,102] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:42,145] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:42,196] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:42,197] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:42,241] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:42,268] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:42,269] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:42,313] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:42,339] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:42,339] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:42,383] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:42,407] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:42,407] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:42,407] 58 root - INFO - Lisence plate complies format
+[2023-08-21 08:48:42,447] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:42,447] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:42,489] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:42,517] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:42,517] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:42,518] 58 root - INFO - Lisence plate complies format
+[2023-08-21 08:48:42,564] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:42,587] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:42,587] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:42,587] 58 root - INFO - Lisence plate complies format
+[2023-08-21 08:48:42,632] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:42,657] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:42,657] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:42,657] 58 root - INFO - Lisence plate complies format
+[2023-08-21 08:48:42,703] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:42,732] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:42,732] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:42,732] 58 root - INFO - Lisence plate complies format
+[2023-08-21 08:48:42,776] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:42,805] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:42,805] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:42,847] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:42,873] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:42,873] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:42,873] 58 root - INFO - Lisence plate complies format
+[2023-08-21 08:48:42,920] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:42,949] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:42,949] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:42,993] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:43,025] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:43,025] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:43,025] 58 root - INFO - Lisence plate complies format
+[2023-08-21 08:48:43,068] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:43,101] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:43,101] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:43,144] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:43,178] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:43,179] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:43,222] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:43,246] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:43,246] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:43,246] 58 root - INFO - Lisence plate complies format
+[2023-08-21 08:48:43,290] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:43,323] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:43,323] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:43,365] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:43,391] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:43,391] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:43,430] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:43,472] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:43,554] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:43,599] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:43,623] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:43,623] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:43,697] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:43,740] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:43,782] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:43,807] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:43,807] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:43,818] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:43,860] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:43,870] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:43,910] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:43,953] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:44,052] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:44,052] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:44,062] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:44,106] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:44,151] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:44,164] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:44,206] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:44,248] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:44,273] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:44,273] 55 root - INFO - license_plate_text!=None and lisence plate_score!=None
+[2023-08-21 08:48:44,281] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:44,324] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:44,335] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:44,376] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:44,449] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
+[2023-08-21 08:48:44,487] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:44,540] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:44,593] 34 root - INFO - Plate Detected
+[2023-08-21 08:48:44,684] 52 root - INFO - FRAME DETECTED AND PASSED TO ocr
