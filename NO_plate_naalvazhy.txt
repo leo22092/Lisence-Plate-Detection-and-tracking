@@ -1,0 +1,50 @@
+No plate july 
+error AttributeError: module 'PIL.Image' has no attribute 'ANTIALIAS'
+
+link to number plate yolo roboflow model
+https://universe.roboflow.com/two-wheeler/number-plate-kbzpm/model/1?image=https%3A%2F%2Fsource.roboflow.com%2FBbYjs8eRQyNxsgKSxarELwIJxF22%2FK2jqxyJgC3fsq0aVkxkk%2Foriginal.jpg
+
+torch cudsa installed in yolov8 conda environment
+
+installing torch vision cpu
+(yolov8_custom) C:\Users\shitosu>pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+upgrading torch for gpu
+(yolov8_custom) C:\Users\shitosu>pip3 install --upgrade torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+ 
+command for training-->
+(yolov8_custom) C:\Users\shitosu>yolo task=detect mode=train epochs=30 data=data_custom.yaml model=yolov8m.pt imgsz=640 batch=8)
+
+command for predicting 
+(yolov8_custom) C:\Users\shitosu\Desktop\v8>yolo task=detect mode=predict model=best.pt show=True conf=0.5 source=medicalclg_vid.mp4
+
+agust1
+
+used the ocr_requiremnts.txt with opencv-headless edited with opencv-python -->ocr and opencv-python both worked
+2.installed ultralytics also to the testenv1 environmnt ---->still working
+
+but not using cuda
+
+tried installing pytorch cuda17 but it alters ocr requirements. pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+torchaudio 2.0.2+cu117 requires torch==2.0.1, but you have torch 1.8.1 which is incompatible.
+
+
+Solved above
+by installing pytorch as normal then pip installing easyocr-->ocr is using cuda time take is 0.03 seconds
+
+
+to make easy
+use this requirements.txt
+(torch's and torch vision's cu17 at the end was removed from cuda_ocr_requires.txt and python-headless was changed to opencv-python-->cuda_ocr_opencv_requires.txt)
+"C:\Users\shitosu\Desktop\Mini_project\Programming\requirements\cuda_ocr_opencv_requires.txt"
+and then pip3 install --upgrade torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+ 
+it works
+Agust 4
+some videos notrecognizing in cuda-cv-engineer cudatkmcut works
+Agust 19
+completed annotation of images till 155/287 in unused images
+
+
+Agust 19
+video_path = "C:\Users\shitosu\Desktop\Tkm_front.mp4"
+model_path = "C:\Users\shitosu\Desktop\v8\best.pt"
